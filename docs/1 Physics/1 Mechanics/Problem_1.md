@@ -1,6 +1,6 @@
 # Problem 1
 
-.... $ 2^2 $
+.... $2^2$
 
 
 ![alt text](image.png)
